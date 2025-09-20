@@ -8,4 +8,5 @@ This line to check seperate branches in github.
 This line form local, local branch form pc to see push in rmote repo.
 This line from local_2, local branch form pc see merage in localy.
 This line is added to undersent issues. solveing the #3 issue here,
-This test form main baranch
+Editing in feature branch.
+
