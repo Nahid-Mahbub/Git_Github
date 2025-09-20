@@ -1,0 +1,2 @@
+1. This is file is created to solve merge problem localy in git.
+2. 
