@@ -1,6 +1,6 @@
 # Learning Git & GitHub
 
-This README is a guide to learn Git and GitHub using Markdown. It covers basic Markdown topics, commands, and examples.
+This README is a guide to learn Git and GitHub using Markdown. It covers basic Markdown topics, commands, and examples. 
 
 ---
 
