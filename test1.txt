@@ -11,3 +11,5 @@ This line is added to undersent issues. solveing the #3 issue here,
 Editing in feature branch.
 This is a update in text file.
 This is a update in text file to check git.
+Helps to commit while skipping staging a file(Directly
+add & Commit)
