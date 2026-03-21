@@ -1,15 +1,3 @@
-I am Nahid Mahbub
-I born in 2003 march 02
-..
-Hi there remote repo, this is 13 of september 2025 and i am making change in this file to push in github remote repo.
-agin change in local to chaeck git push.
-This is Github remote repo changeing to see git pull.
-This line to check seperate branches in github.
-This line form local, local branch form pc to see push in rmote repo.
-This line from local_2, local branch form pc see merage in localy.
-This line is added to undersent issues. solveing the #3 issue here,
-Editing in feature branch.
-This is a update in text file.
-This is a update in text file to check git.
-Helps to commit while skipping staging a file(Directly
-add & Commit)
+I am Nahid Mahbub, born on March 2, 2003. On September 13, 2025, I worked on a GitHub repository to practice version control. I made changes in a local repository and pushed them to the remote repository, then verified the updates. I also edited files directly in the remote repository to test pulling changes back to my local machine.
+
+Additionally, I worked with multiple branches, pushing changes from different local branches and merging them locally. I experimented with handling issues, including resolving issue #3 in a feature branch. Finally, I updated text files and practiced committing changes directly without staging.
